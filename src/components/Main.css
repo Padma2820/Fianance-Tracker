@@ -1,0 +1,43 @@
+.mainblock{
+
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: beige;
+    padding: 20px;
+    width: 100%;
+    max-width: 350px;
+    margin: 100px auto;
+    display: table;
+}
+
+.Error{
+
+    padding: 10px;
+    background-color: pink;
+    border: 1px solid rgb(245, 182, 245);
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+.Spinner{
+display: table;
+margin:  0 auto;
+
+}
+
+.Spinner > .ImgSpinner{
+    max-width : 30px
+
+}
+
+.main-heading{
+
+
+    text-align: center;
+    
+}
+
+.ImgSpinner{
+    margin: 300px auto;
+}
